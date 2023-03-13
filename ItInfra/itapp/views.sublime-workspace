@@ -1,0 +1,384 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nb",
+				"nbsp"
+			],
+			[
+				"text-decora",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"borde",
+				"border-style"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"re",
+				"rebeccapurple"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"list-style",
+				"list-style-image"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "__init__.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Sravani/Desktop/Hello.jsp",
+		"/C/Users/Sravani/Downloads/disease prediction/disease prediction/templates/includes/default.html",
+		"/C/Users/Sravani/Downloads/disease prediction/disease prediction/templates/home.html",
+		"/C/Users/Sravani/Desktop/project/result.html",
+		"/C/Users/Sravani/Desktop/project/performance.html",
+		"/C/Users/Sravani/Desktop/project/login.html",
+		"/C/Users/Sravani/Desktop/project/index.html",
+		"/C/Users/Sravani/Downloads/disease prediction/disease prediction/__pycache__/diseaseprediction.cpython-36.pyc",
+		"/C/Users/Sravani/Desktop/project/chart.html",
+		"/C/Users/Sravani/Desktop/project/find_doctor.html",
+		"/C/Users/Sravani/Desktop/project/disease_predict.html",
+		"/C/Users/Sravani/Desktop/project/home.html",
+		"/C/Users/Sravani/Desktop/project/first.html",
+		"/C/Users/Sravani/Downloads/disease prediction.zip",
+		"/C/Users/Sravani/Desktop/p1.html",
+		"/C/Users/Sravani/Desktop/p1.css",
+		"/C/Users/Sravani/Desktop/registration.html",
+		"/C/xampp/htdocs/HCI/registerpage.php",
+		"/C/Users/Sravani/Desktop/page.html",
+		"/C/xampp/htdocs/assign/registerpage.php",
+		"/C/xampp/htdocs/assign/loginpage.php",
+		"/C/xampp/htdocs/assign/register.php",
+		"/C/xampp/htdocs/assign/login.php",
+		"/C/Users/Sravani/Desktop/sample.html",
+		"/C/Users/Sravani/Desktop/new/HCI/validation.html",
+		"/C/Users/Sravani/Desktop/new/HCI/login.php",
+		"/C/Users/Sravani/Desktop/HCI/success.html",
+		"/C/Users/Sravani/Desktop/HCI/Registration.html",
+		"/C/Users/Sravani/Desktop/HCI/register.php",
+		"/C/Users/Sravani/Desktop/HCI/reg.css",
+		"/C/Users/Sravani/Desktop/HCI/connection.php",
+		"/C/Users/Sravani/Desktop/HCI/login page.html",
+		"/C/Users/Sravani/Desktop/HCI/loginsuccess.html",
+		"/C/Users/Sravani/Desktop/HCI/login.php",
+		"/C/Users/Sravani/Desktop/HCI/login.css",
+		"/C/Users/Sravani/Downloads/reg.css",
+		"/C/Users/Sravani/Downloads/loginsuccess.html",
+		"/C/Users/Sravani/Downloads/login.css",
+		"/C/Users/Sravani/Downloads/login page.html",
+		"/C/Users/Sravani/Downloads/login.php",
+		"/C/Users/Sravani/Downloads/register.php",
+		"/C/Users/Sravani/Downloads/success.html",
+		"/C/Users/Sravani/Downloads/Registration.html",
+		"/C/Users/Sravani/Desktop/new/Web technologies/WT/lab2/forgot.html",
+		"/C/Users/Sravani/Desktop/new/Web technologies/WT/lab2/login.html",
+		"/C/Users/Sravani/Desktop/new/Web technologies/WT/lab2/registration.html",
+		"/C/Users/Sravani/Desktop/new/Web technologies/WT/lab2/reg.css",
+		"/C/Users/Sravani/Desktop/project/ab.css",
+		"/C/Users/Sravani/Desktop/project/suggestions.css",
+		"/C/Users/Sravani/Desktop/project/foodhome.html",
+		"/C/Users/Sravani/Desktop/project/contact.html",
+		"/C/Users/Sravani/Desktop/project/about.html",
+		"/C/Users/Sravani/Desktop/project/suggestions.html",
+		"/C/Users/Sravani/Desktop/project/food.css",
+		"/C/Users/Sravani/Desktop/project/homefood.png",
+		"/C/Users/Sravani/Desktop/project/food5.jpg",
+		"/C/Users/Sravani/Desktop/project/food4.jpeg",
+		"/C/Users/Sravani/Desktop/project/food2.jpg",
+		"/C/Users/Sravani/Desktop/project/backgroundfood.jpg",
+		"/C/Users/Sravani/Desktop/new/project/homefood.png",
+		"/C/Users/Sravani/Desktop/new/project/food5.jpg",
+		"/C/Users/Sravani/Desktop/new/project/food4.jpeg",
+		"/C/Users/Sravani/Desktop/new/project/food2.jpg",
+		"/C/Users/Sravani/Desktop/new/project/backgroundfood.jpg",
+		"/C/Users/Sravani/Desktop/new/project/suggestions.html",
+		"/C/Users/Sravani/Desktop/helloworld.html",
+		"/C/Users/Sravani/Desktop/HTML/overflow.html",
+		"/C/Users/Sravani/Desktop/HTML/menubar.html",
+		"/C/Users/Sravani/Desktop/HTML/floatandclear.html",
+		"/C/Users/Sravani/Desktop/HTML/multipleimginbg.html",
+		"/C/Users/Sravani/Desktop/HTML/textstyles.html",
+		"/C/Users/Sravani/Desktop/HTML/backgroundstyleimage.html",
+		"/C/Users/Sravani/Desktop/HTML/marginstyles.html",
+		"/C/Users/Sravani/Desktop/HTML/marginauto.html",
+		"/C/Users/Sravani/Desktop/HTML/marginul.html",
+		"/C/Users/Sravani/Desktop/HTML/fontstyles.html",
+		"/C/Users/Sravani/Desktop/HTML/colors.html",
+		"/C/Users/Sravani/Desktop/HTML/pseudo.html",
+		"/C/Users/Sravani/Desktop/HTML/pseudoforanhcortags.html",
+		"/C/Users/Sravani/Desktop/HTML/borderstyles.html",
+		"/C/Users/Sravani/Desktop/HTML/attributeselector.html",
+		"/C/Users/Sravani/Desktop/HTML/pseudoelement.html",
+		"/C/Users/Sravani/Desktop/HTML/classbased.html",
+		"/C/Users/Sravani/Desktop/HTML/id based.html",
+		"/C/Users/Sravani/Desktop/HTML/tag based.html",
+		"/C/Users/Sravani/Desktop/HTML/html.html",
+		"/C/Users/Sravani/Desktop/HTML/external.css",
+		"/C/Users/Sravani/Desktop/HTML/internal.html",
+		"/C/Users/Sravani/Desktop/HTML/p2.html",
+		"/C/Users/Sravani/Desktop/HTML/css.html",
+		"/C/Users/Sravani/Desktop/javascript/first.html",
+		"/C/Users/Sravani/Desktop/aboutus.html",
+		"/C/Users/Sravani/Desktop/about.html",
+		"/C/Users/Sravani/Desktop/HTML/index.html",
+		"/C/Users/Sravani/Desktop/javascript/jk.js",
+		"/C/Users/Sravani/Desktop/statement.html",
+		"/C/Users/Sravani/Desktop/windowprint.html",
+		"/C/Users/Sravani/Desktop/consolelog.html",
+		"/C/Users/Sravani/Desktop/alert.html",
+		"/C/Users/Sravani/Desktop/windowalert.html",
+		"/C/Users/Sravani/Desktop/innerhtml.html",
+		"/C/Users/Sravani/Desktop/demo.html",
+		"/C/Users/Sravani/Desktop/hellojs",
+		"/C/Users/Sravani/Desktop/hello js",
+		"/C/Users/Sravani/Desktop/python/regex_sum_1568595.txt",
+		"/C/Users/Sravani/Desktop/python/TES.py",
+		"/C/Users/Sravani/Desktop/new/sumof.js",
+		"/C/Users/Sravani/Desktop/node",
+		"/C/Users/Sravani/Desktop/new/Web technologies/show.html",
+		"/C/Users/Sravani/Desktop/new/add 2 numbers.js",
+		"/C/Users/Sravani/Desktop/session1.html",
+		"/C/Users/Sravani/Desktop/session2.html",
+		"/C/Users/Sravani/Desktop/index1.html",
+		"/C/Users/Sravani/Desktop/py/first",
+		"/C/Users/Sravani/Desktop/even",
+		"/C/Users/Sravani/Desktop/WT/lab2/registration.html",
+		"/C/Users/Sravani/Desktop/WT/lab2/reg.css",
+		"/C/Users/Sravani/Desktop/WT/lab2/login.html",
+		"/C/Users/Sravani/Desktop/pythonworkshop/DAY-1.ipynb",
+		"/C/Users/Sravani/Desktop/calculator",
+		"/C/Users/Sravani/Desktop/WT/lab2/forgot.html",
+		"/C/Users/Sravani/Desktop/bootstrap.html",
+		"/C/Users/Sravani/Desktop/WT/lab11/lab11.html",
+		"/C/Users/Sravani/Desktop/WT/lab3/Q3 achievements page/achievement-s170383.html",
+		"/C/Users/Sravani/Desktop/WT/lab9/lab9.html",
+		"/C/Users/Sravani/Desktop/WT/javascript.html",
+		"/C/Users/Sravani/Desktop/WT/jquery.html",
+		"/C/Users/Sravani/Desktop/WT/lab5/Q1/html5 0.css"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "__init__.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "views.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
